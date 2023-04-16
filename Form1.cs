@@ -17,5 +17,9 @@ namespace WinFormsApp4
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Bao oi toi doi
+        }
     }
 }
